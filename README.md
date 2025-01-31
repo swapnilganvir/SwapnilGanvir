@@ -31,6 +31,8 @@
   </p>
   <p align="center"><a target="_blank"href="https://task-management-frontend-1wng.onrender.com">Task management app</a>
   </p>
+  <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/Gadgets-backend">Gadget API</a>
+  </p>
   <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/swapnilganvir.github.io">Extras</a>
   </p>
 <br>
