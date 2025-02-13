@@ -33,9 +33,11 @@
   </p>
   <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/web-app-counter-form-editor">Interactive React Web Application</a>
   </p>
+  <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/Quiz-App">Quiz App</a>
+  </p>
   <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/Gadgets-backend">Gadget API</a>
   </p>
-  <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/Quiz-App">Quiz App</a>
+  <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/Secret-Santa-Game">Secret Santa Game</a>
   </p>
   <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/swapnilganvir.github.io">Extras</a>
   </p>
