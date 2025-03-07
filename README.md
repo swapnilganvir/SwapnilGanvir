@@ -29,7 +29,7 @@
 <h2 align="center">💬 My Projects</h2>
   <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/project_app">Food delivery app</a>
   </p>
-  <p align="center"><a target="_blank"href="https://task-management-frontend-1wng.onrender.com">Task management app</a>
+  <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/Task-Management-App-2">Task management app</a>
   </p>
   <p align="center"><a target="_blank"href="https://github.com/swapnilganvir/web-app-counter-form-editor">Interactive React Web Application</a>
   </p>
